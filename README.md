@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @guntekhunter
-- 👀 I’m interested in frontend web defelopment
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on aku pintar
+- 👋 Hi, I’m Muh. Agung Haeruddin
+- 👀 I’m interested in frontend web development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to a Frontend Developer job
 - 📫 How to reach me. Email me (agunghaeruddin270@gmail.com)
 
 <!---
